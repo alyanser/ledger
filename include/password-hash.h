@@ -1,0 +1,5 @@
+#pragma once
+
+#include <string_view>
+
+constexpr std::string_view PASSWORD_HASH = "bcc014f58053d16b41485a96dd1255f890bcb5d7aae4c5a13d90742641efd3374d08d004bf67e3b0f89f14bae0c1883c3fb37c39bdb6184c930d1ab63194d103";

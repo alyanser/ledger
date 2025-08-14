@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/PasswordDialog.qml</file>
+        <file>ui/mainWindow.qml</file>
+        <file>ui/Central.qml</file>
+        <file>ui/DatePickerDialog.qml</file>
+        <file>ui/BaleDialog.qml</file>
+        <file>ui/LoadingPopup.qml</file>
+        <file>ui/InputDialog.qml</file>
+        <file>ui/UserRecordPopup.qml</file>
+        <file>ui/MonthlyTotalsPopup.qml</file>
+        <file>ui/NamedRecordPopup.qml</file>
+        <file>ui/Spinner.qml</file>
+
+        <file>icons/baleLedgerIcon.png</file>
+        <file>icons/baleLedgerIcon.ico</file>
+    </qresource>
+</RCC>
